@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F36623FB-A01D-4FD2-A7A4-921921367011}|TestCaseClient.IntegrationTest\\TestCaseClient.IntegrationTest.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\testcaseclient.integrationtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36623FB-A01D-4FD2-A7A4-921921367011}|TestCaseClient.IntegrationTest\\TestCaseClient.IntegrationTest.csproj|solutionrelative:testcaseclient.integrationtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\clientservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\clientservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BFC762-901D-4942-A50B-78C98A619D40}|TestCaseClient.Test\\TestCaseClient.Test.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\testcaseclient.test\\clientetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BFC762-901D-4942-A50B-78C98A619D40}|TestCaseClient.Test\\TestCaseClient.Test.csproj|solutionrelative:testcaseclient.test\\clientetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\migrations\\20241017163206_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\migrations\\20241017163206_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|c:\\users\\jzeledon\\source\\repos\\clientserviceupdated\\clientservice\\clientservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABF809-F913-4DE0-B666-524FC6F18556}|ClientService\\ClientService.csproj|solutionrelative:clientservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClientService\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Models\\Cliente.cs",
+              "RelativeToolTip": "ClientService\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:33:19.822Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\TestCaseClient.IntegrationTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestCaseClient.IntegrationTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\TestCaseClient.IntegrationTest\\UnitTest1.cs",
+              "RelativeToolTip": "TestCaseClient.IntegrationTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:08:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteTest.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\TestCaseClient.Test\\ClienteTest.cs",
+              "RelativeDocumentMoniker": "TestCaseClient.Test\\ClienteTest.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\TestCaseClient.Test\\ClienteTest.cs",
+              "RelativeToolTip": "TestCaseClient.Test\\ClienteTest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:49:24.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientService\\appsettings.json",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\appsettings.json",
+              "RelativeToolTip": "ClientService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T15:51:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ClientService\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Data\\DataContext.cs",
+              "RelativeToolTip": "ClientService\\Data\\DataContext.cs",
+              "ViewState": "AgIAABAAAACoY2ZmZuYqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:54:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ClientService\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ClientService\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAK4AAAAAADMzMzPvv8kAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:44:20.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "ClientService\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Models\\Persona.cs",
+              "RelativeToolTip": "ClientService\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:31:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientService.csproj",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\ClientService.csproj",
+              "RelativeDocumentMoniker": "ClientService\\ClientService.csproj",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\ClientService.csproj",
+              "RelativeToolTip": "ClientService\\ClientService.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T07:28:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Program.cs",
+              "RelativeDocumentMoniker": "ClientService\\Program.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Program.cs",
+              "RelativeToolTip": "ClientService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:30:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "ClientService\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "ClientService\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAoAAAAgMzMzM7MqwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:52:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "ClientService\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "ClientService\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:51:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ClientService\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "ClientService\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAEcAAAAAmpmZmRkUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:32:12.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241017163206_CreateInitial.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Migrations\\20241017163206_CreateInitial.cs",
+              "RelativeDocumentMoniker": "ClientService\\Migrations\\20241017163206_CreateInitial.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Migrations\\20241017163206_CreateInitial.cs",
+              "RelativeToolTip": "ClientService\\Migrations\\20241017163206_CreateInitial.cs",
+              "ViewState": "AgIAAAwAAACA9//////5vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:35:24.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ClientService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\WeatherForecast.cs",
+              "RelativeToolTip": "ClientService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:29:58.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ClientService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\JZeledon\\source\\repos\\ClientServiceUPDATED\\ClientService\\ClientService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ClientService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAEAAABoZ2ZmZmYkwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:30:02.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
